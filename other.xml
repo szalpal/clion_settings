@@ -1,0 +1,17 @@
+<application>
+  <component name="CPPToolchains" version="2">
+    <toolchains detectedVersion="0">
+      <toolchain name="Dali" customCMakePath="/usr/local/bin/cmake" debuggerKind="BUNDLED_GDB" />
+    </toolchains>
+  </component>
+  <component name="CppNewDialogSettings">
+    <option name="addNewFilesToProject" value="false" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/virtualenvs/tensorflow/bin/python3" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

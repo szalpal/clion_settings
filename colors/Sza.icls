@@ -1,0 +1,52 @@
+<scheme name="Szał" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2018-09-18T09:07:55</property>
+    <property name="ide">CLion</property>
+    <property name="ideVersion">2018.2.2.0.0</property>
+    <property name="modified">2018-09-19T11:02:43</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="4abaff" />
+      </value>
+    </option>
+    <option name="DEFAULT_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="9b734e" />
+      </value>
+    </option>
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="4abaff" />
+      </value>
+    </option>
+    <option name="OC.NAMESPACE_LIKE">
+      <value>
+        <option name="FOREGROUND" value="2f83af" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_LIKE">
+      <value>
+        <option name="FOREGROUND" value="4abaff" />
+      </value>
+    </option>
+    <option name="OC.TEMPLATE_TYPE">
+      <value>
+        <option name="FOREGROUND" value="ba2fb3" />
+      </value>
+    </option>
+    <option name="OC.TEMPLATE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="ba2fb3" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="OC.TYPEDEF">
+      <value>
+        <option name="FOREGROUND" value="4abaff" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

@@ -9,9 +9,24 @@
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift f12" />
   </action>
+  <action id="CollapseRegionRecursively">
+    <keyboard-shortcut first-keystroke="ctrl alt subtract" />
+  </action>
   <action id="ContextHelp" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl alt minus" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl alt equals" />
+  </action>
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="ctrl alt 0" />
+  </action>
+  <action id="ExpandRegionRecursively">
+    <keyboard-shortcut first-keystroke="ctrl alt add" />
   </action>
   <action id="FileStructurePopup" />
   <action id="GotoAction" />

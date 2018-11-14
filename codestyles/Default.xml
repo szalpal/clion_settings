@@ -1,4 +1,7 @@
 <code_scheme name="Default">
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <option name="FORMATTER_ON_TAG" value="@clion_formatter:on" />
+  <option name="FORMATTER_OFF_TAG" value="@clion_formatter:off" />
   <Objective-C>
     <option name="INDENT_NAMESPACE_MEMBERS" value="0" />
     <option name="INDENT_C_STRUCT_MEMBERS" value="2" />

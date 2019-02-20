@@ -2,6 +2,7 @@
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
       <toolchain name="Default" toolSetKind="SYSTEM_UNIX_TOOLSET" debuggerKind="BUNDLED_GDB" />
+      <toolchain name="cuda" toolSetKind="SYSTEM_UNIX_TOOLSET" debuggerKind="CUSTOM_GDB" customGDBPath="/usr/local/cuda/bin/cuda-gdb" />
     </toolchains>
   </component>
 </application>

@@ -2,14 +2,63 @@
   <component name="VimSettings">
     <state version="4" enabled="false" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/DALI/dali/aux/optical_flow/turing_of/optical_flow_turing_test.cc" timestamp="1553011988513">
+        <mark key="[" line="80" column="21" />
+        <mark key="]" line="81" column="9" />
+        <mark key="." line="85" column="21" />
+        <mark key="^" line="80" column="30" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="65535" code="36" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="1" type="8">
+        <text encoding="base64">MSwgIAogNDEsCjQ3LCAKIDk1LAogMTYsCjM1LCA=</text>
+      </register>
+      <register name="&quot;" type="8">
+        <text encoding="base64">MSwgIAogNDEsCjQ3LCAKIDk1LAogMTYsCjM1LCA=</text>
+      </register>
+      <register name="2" type="8">
+        <text encoding="base64">NzEsIAogNjAsCjk0LCAKIDYxLAogOTYsCiAyLCA=</text>
+      </register>
+      <register name="3" type="8">
+        <text>47, 
+ 60,
+ 4, 
+ 96,
+ 63,
+ 81,</text>
+      </register>
+      <register name="4" type="8">
+        <text>73,
+80,
+55,
+64,
+88,
+81,</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
